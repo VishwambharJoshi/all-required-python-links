@@ -1,0 +1,17 @@
+Python course links:
+1. ASCII ART: https://ascii.co.uk/art
+2. Ask Python: https://www.askpython.com/python-modules/python-random-module-generate-random-numbers-sequences
+   a. Convert String to List in Python: https://www.askpython.com/python/string/convert-string-to-list-in-python
+   b. Python import Statement (Importing module): https://www.askpython.com/python/python-import-statement
+3. Docs python (Data Structures): https://docs.python.org/3/tutorial/datastructures.html
+	a. Built-in python functions: https://docs.python.org/3/library/functions.html
+4. Robot move using Python: https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json
+5. Style Guide for Python Code: https://peps.python.org/pep-0008/ 
+6. Python Google doc: https://developers.google.com/edu/python/lists#for-and-in
+					: code.google.com/archive/p/prettytable/wikis/Tutorial.wiki
+7. To draw workflow: https://app.diagrams.net/
+8. Python List index() Method: https://www.w3schools.com/python/ref_list_index.asp
+9. Same as Thonny but on web: https://pythontutor.com/render.html#mode=edit
+							: https://pythontutor.com/visualize.html#mode=edit
+10. ASCII Art: http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
+11. Debugger website: https://pythontutor.com/visualize.html#mode=edit
